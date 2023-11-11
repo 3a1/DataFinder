@@ -1,7 +1,7 @@
 # 🔎DataFinder
 Searches for all files in the folder and saves lines containing a specific text (string)
 
-# Usage
+# 🌌Usage
 + Put all your files in one folder
 + Open DataFinder.exe
 + Enter folder name which contains all your files
